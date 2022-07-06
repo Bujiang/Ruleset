@@ -22,6 +22,8 @@ DOMAIN,mobile.events.data.microsoft.com
 DOMAIN,nav.smartscreen.microsoft.com
 DOMAIN,eas.outlook.com
 DOMAIN,edge.microsoft.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
 # ------
 # > PayPal
 DOMAIN-SUFFIX,paypal.com
