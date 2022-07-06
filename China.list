@@ -21,6 +21,7 @@ DOMAIN,ntservicepack.microsoft.com
 DOMAIN,mobile.events.data.microsoft.com
 DOMAIN,nav.smartscreen.microsoft.com
 DOMAIN,eas.outlook.com
+DOMAIN,edge.microsoft.com
 # ------
 # > PayPal
 DOMAIN-SUFFIX,paypal.com
