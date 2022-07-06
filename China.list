@@ -18,7 +18,7 @@ DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
 DOMAIN,ntservicepack.microsoft.com
 # Add by Bujiang
-DOMAIN,mobile.events.data.microsoft.com
+DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN,nav.smartscreen.microsoft.com
 DOMAIN,eas.outlook.com
 DOMAIN,edge.microsoft.com
