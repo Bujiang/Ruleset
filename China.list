@@ -86,3 +86,5 @@ DOMAIN-SUFFIX,ignite-vision.com
 DOMAIN-SUFFIX,tiqcdn.com
 # > Futunn
 DOMAIN-SUFFIX,futunn.com
+# > bugsnag.com
+DOMAIN-SUFFIX,bugsnag.com
