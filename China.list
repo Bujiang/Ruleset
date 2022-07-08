@@ -25,6 +25,7 @@ DOMAIN,edge.microsoft.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
 # ------
 # > PayPal
 DOMAIN-SUFFIX,paypal.com
