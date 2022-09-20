@@ -1,0 +1,6 @@
+#!name=🍿️ ylgy
+#!desc=羊了个羊
+[Script]
+Ylgy = type=http-response, pattern=^https://cat-match-static.easygame2021\.com/maps/(.*)$, requires-body=1, max-size=0, script-path=https://cdn.jsdelivr.net/gh/yangdaozhao/ylgy@master/ylgy.js, argument=
+[MITM]
+hostname = %APPEND% *.easygame2021.com
