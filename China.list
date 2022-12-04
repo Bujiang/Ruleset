@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,futunn.com
 # > Meituan, Dianping
 DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,d.meituan.net
 DOMAIN-SUFFIX,dianping.com
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve
